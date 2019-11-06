@@ -1,4 +1,4 @@
-![College Logo](https://www.google.co.in/search?q=gndec+logo&client=opera&hs=t6o&tbm=isch&source=iu&ictx=1&fir=JFcVDY2zdQXI7M%253A%252CSut_ZX3iENRZuM%252C_&vet=1&usg=AI4_-kQJ-E7Rx8srphRNugVmoM_FjJI8sQ&sa=X&ved=2ahUKEwjVyYmWrNblAhXW63MBHW-3DR8Q9QEwAHoECAgQHA#imgrc=JFcVDY2zdQXI7M:)
+![College Logo](https://gndec.ac.in/logo.png)
 **Name**   - Subham Kumar\
 **Subject**-PPS ESC 104\
 **CRN**    -1921103\
